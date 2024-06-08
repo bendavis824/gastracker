@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gas Prices</title>
+</head>
+<body>
+    <h1>Gas Prices Information</h1>
+    <h2>Gas Price Map</h2>
+    <iframe src="https://www.gasbuddy.com/gaspricemap?lat=33.86391965876685&lng=-118.06437968594038&z=10" width="600" height="500" style="border:none;"></iframe>
+    <h2>Local Gas Prices</h2>
+    <iframe src="https://www.gasbuddy.com/home?search=91335&fuel=1&method=all&brandId=31&maxAge=0" width="600" height="500" style="border:none;"></iframe>
+</body>
+</html>
